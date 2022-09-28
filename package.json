@@ -1,5 +1,5 @@
 {
-  "name": "@klarpay/aws-cdk-nestjs-lambda",
+  "name": "@svyatogor/aws-cdk-nestjs-lambda",
   "version": "1.0.0",
   "description": "Helper library for building NestJS base lambdas.",
   "main": "dist/index.js",
