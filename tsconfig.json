@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node16/tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "pretty": true,
+    "strict": true,
+    "outDir": "dist"
+  },
+  "include": ["lib/index.ts"]
+}
